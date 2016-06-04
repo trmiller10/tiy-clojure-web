@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1465066437763">{:repl-history {:ide [], :local [&quot;(purchases-html)&quot; &quot;Furniture&quot; &quot;(+ 1 1\n   )&quot; &quot;(+ 1 1)&quot; &quot;(slurp \&quot;purchases.csv\&quot;)&quot; &quot;(read-purchases)&quot; &quot;(-main)&quot;], :remote []}}</component>
+</project>
